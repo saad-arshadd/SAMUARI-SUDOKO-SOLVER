@@ -106,7 +106,7 @@ Identified that overlapping regions account for 62% of constraint violations
 
 Developed visualization tools to analyze puzzle difficulty patterns
 
-# Team Contributions
+# Team Members
 Ayesha Nasir (22k-4387)
 
 Saad Arshad (22k-4141)
