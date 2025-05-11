@@ -107,8 +107,8 @@ Identified that overlapping regions account for 62% of constraint violations
 Developed visualization tools to analyze puzzle difficulty patterns
 
 # Team Contributions
-Ayesha Nasir (22k-4387): OR-Tools integration, CSP modeling
+Ayesha Nasir (22k-4387)
 
-Saad Arshad (22k-4141): Threading implementation, visualization
+Saad Arshad (22k-4141)
 
 This project demonstrates how advanced AI techniques can solve complex combinatorial puzzles efficiently while providing insights into their structure and difficulty.
